@@ -1,6 +1,6 @@
 <!-- # Bora Codar 12 - kanbam -->
 
-<h1 align="center"> Bora Codar 12 - kanbam </h1>
+<h1 align="center"> Bora Codar 14 - Upload componente </h1>
 
 ![Capa - BoraCodar 14 - componente upload](https://github.com/monclai/bora_codar_14_upload/assets/44307789/16f9e8f9-62f9-4af3-a3c5-ed0534e3704f#vitrinedev)
 
